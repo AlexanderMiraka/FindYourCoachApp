@@ -1,3 +1,3 @@
 <template>
-    ge
+    Page not found
 </template>
